@@ -1,5 +1,5 @@
 const Titulos = () => {
-  // aqui vamos a pomer la logica
+  // aqui vamos a poner la logica
   return (
     //   aqui tambien se puede poner logica
     <section className="text-center">
