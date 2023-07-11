@@ -1,7 +1,7 @@
 const Titulos = () => {
   // aqui vamos a poner la logica
   return (
-    //   aqui tambien se puede poner logica
+    //   aqui tambien se puede poner logica js
     <section className="text-center">
       {/* aqui va todo el maquetado */}
       <h1 className="display-4">proyecto contador reac</h1>
